@@ -1,0 +1,11 @@
+QUANDO CIRAMOS O GITIGNORE E DIZEMOS QUAL PASTA DEVEMOS IGNORAR, QUANDO FORMOS DAR O PUSH ELE NÃO SOBE A PASTA QUE MANDEI 
+IGNORAR.
+
+QUANDO UTILIZAMOS O await (aguardar), a nossa função tem que ter o async
+
+o select se refere ao que o usuário vai escrever;
+
+DENTRO DO select ELE TEM OBJETOS: message e choices[]
+1 - message: mensagem
+2- choices - opcoes tem que ser uma lista de objetos {} = [{}], onde cada opção vai ser um objeto que vai ter valores: nome e values.
+o value sera o valor que vai ser passado para opcao, que vai ser usado no switch
